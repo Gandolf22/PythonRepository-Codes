@@ -29,7 +29,7 @@ idea = '...'
 cad()
 idea = 'Hello User...'
 cad()
-idea = 'I know your deepst secrets...'
+idea = 'I know your deepest secrets...'
 cad()
 idea = "You're secret is..."
 cad()
